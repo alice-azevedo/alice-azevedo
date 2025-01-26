@@ -1,4 +1,4 @@
-# ⏾ Alice Azevedo
+# 🌙 Alice Azevedo
 
 `Computer Science Student and (Future) Software Developer`
 
