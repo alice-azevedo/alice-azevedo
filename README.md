@@ -45,3 +45,16 @@
   </table>
 </div>
 
+<details>
+    <summary>My Codding History</summary>
+    🚀 - Currently Looking for my First Programming Job<br>
+    |<br>
+    |<br>
+  🪐 2025 - Discovered my passion for Low-Level Programming and Embeded Systems and started learning C<br>
+    |<br>
+    |<br>
+  🛸 2024 - Started Majoring in Computer Science and learned a LOT<br>
+    |<br>
+    |<br>  
+    🌏 2023 - At the end of highschool I started to learning HTML and CSS at freeCodeCamp
+</details>
