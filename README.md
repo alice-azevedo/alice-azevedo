@@ -9,14 +9,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alice-azevedo-arruda/">
-    <img height="25" alt="linkedin profile" title="my linkedin" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-blue.svg?logo=person&logoColor=white"/></a>
+    <img height="20" alt="linkedin profile" title="my linkedin" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-blue.svg?logo=person&logoColor=white"/></a>
   <a href="mailto:aliceazevedoarruda0807@gmail.com">
-    <img height="25"  alt="email" title="my email" src="https://custom-icon-badges.demolab.com/badge/EMAIL-red.svg?logo=mail&logoColor=white"/></a>
+    <img height="20"  alt="email" title="my email" src="https://custom-icon-badges.demolab.com/badge/EMAIL-red.svg?logo=mail&logoColor=white"/></a>
   <a href="https://www.instagram.com/coding_alice/">
-    <img  height="25" alt="instagram profile" title="my instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-DD2A7B.svg?logo=device-camera-video&logoColor=white"/></a>
+    <img  height="20" alt="instagram profile" title="my instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-DD2A7B.svg?logo=device-camera-video&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@coding_alice?lang=pt-BR">
-    <img  height="25" alt="tiktok profile" title="my tiktok" src="https://custom-icon-badges.demolab.com/badge/TIKTOK-grey.svg?logo=device-mobile&logoColor=white"/></a>
+    <img  height="20" alt="tiktok profile" title="my tiktok" src="https://custom-icon-badges.demolab.com/badge/TIKTOK-grey.svg?logo=device-mobile&logoColor=white"/></a>
 </p>  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,c,cpp" />
+  </a>
+</p>
+
 
 ---
 
